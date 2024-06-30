@@ -1,0 +1,6 @@
+bin/
+*.class
+lib/
+report/
+*.exec
+.DS_Store
